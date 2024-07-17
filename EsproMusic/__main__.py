@@ -50,7 +50,7 @@ async def init():
         pass
     await Espro.decorators()
     LOGGER("EsproMusic").info(
-        "EsproMusic Music Bot Started Successfully, JOIN @SUDO_APT_UPDATE"
+        "EsproMusic Music Bot Started Successfully, Aapni gf haiwan ko de do "
     )
     await idle()
     await app.stop()
