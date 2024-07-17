@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴛᴍᴍ ꭙ ᴍᴜsɪᴄ 」──
+    ──「Espro Music」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg">
+  <img src="https://telegra.ph/file/172fecd14841a2b780448.jpg">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <a href="https://github.com/TeamEspro/EsproMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamEspro/EsproMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/TeamEspro/EsproMusicBot/blob/ritik/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamEspro/EsproMusicBot/commits/NobimusicV2"> <img src="https://img.shields.io/github/last-commit/TeamEspro/EsproMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/TeamEspro/EsproMusicBot/commits/EsproMusicBot"> <img src="https://img.shields.io/github/last-commit/TeamEspro/EsproMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/TeamEspro/EsproMusicBot && cd NobimusicV2`
+`git clone https://github.com/TeamEspro/EsproMusicBot && cd EsproMusicBot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
